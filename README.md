@@ -17,6 +17,7 @@ The data we have is represented by a table with 7 columns: id, total_bill, tip, 
 - The source of the data is mentioned in the link above.
 - I have also uploaded the *.ipynb file to my repository.
 - Or you can access this file from the Google Colab link below:
+
 [https://colab.research.google.com/drive/1leBni-fVbqRMtZPuHwKl0vrMCtC_DWE9?usp=sharing](https://colab.research.google.com/drive/1leBni-fVbqRMtZPuHwKl0vrMCtC_DWE9?usp=sharing)
 
 ## The main goals
