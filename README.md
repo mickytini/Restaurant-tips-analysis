@@ -27,6 +27,6 @@ Analyze and find out the customers' habits when they give tips as well as the am
 - Weekend or weekday.
 - Dinner or lunch time at the restaurant.
 ## Results
-In general, customers when dining at restaurants have the habit of tipping and the maximum tip amount ranges from 2 USD to 4 USD. Men, non-smokers, people who come to the restaurant for dinner on weekends tend to tip more than women and smokers. For more details, you can refer to the file *.ipynb I uploaded.
+In general, customers when dining at this restaurant have the habit of tipping and the maximum tip amount ranges from 2 USD to 4 USD. Men, non-smokers, people who come to the restaurant for dinner on weekends tend to tip more than women and smokers. For more details, you can refer to the file *.ipynb I uploaded.
 
 Thank you.
